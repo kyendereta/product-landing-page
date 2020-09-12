@@ -2,8 +2,8 @@
 
 > Creating a [Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) using languages leant in FreeCodeCamp's responsive web design projects.
 
-![screenshot](./images/desktop.png)
-![screenshot](./images/tablet.png)
+![screenshot](desktop.png)
+![screenshot](tablet.png)
 
 Additional description about the project and its features.
 

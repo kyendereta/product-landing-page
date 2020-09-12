@@ -1,0 +1,139 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #EEEEEE;
+}
+
+.blue {
+    color: #3C546F;
+}
+
+header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    background-color: #EEEEEE;
+    top: 0px;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
+
+.logo-section {
+    display: flex;
+    justify-content: flex-start;
+}
+
+nav {
+    margin-left: 700px;
+}
+
+#nav-bar {
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+nav a {
+    margin-left: 30px;
+}
+
+.user-details {
+    text-align: center;
+    padding-top: 100px;
+}
+
+#email {
+    height: 20px;
+}
+
+#submit {
+    background-color: #3C546F;
+    height: 30px;
+    color: #ffffff;
+}
+
+.description {
+    margin-left: 300px;
+    padding-top: 60px;
+}
+
+.fas {
+    font-size: 50px;
+    margin-right: 50px;
+}
+
+.fa-fire {
+    margin-right: 75px;
+}
+
+.fa-cookie-bite {
+    margin-right: 65px;
+}
+
+.line {
+    line-height: 0.5em;
+    display: flex;
+}
+
+#video {
+    margin-left: 400px;
+    margin-top: 80px;
+}
+
+.showcase {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 50px;
+}
+
+.showcase-item {
+    border: 2px solid #000000;
+    text-align: center;
+    width: 315px;
+    height: 310px;
+}
+
+footer {
+    text-align: right;
+    padding-top: 20px;
+    margin-left: 30px;
+    line-height: 0.5em;
+    background-color: #dddddd;
+    height: 60px;
+    width: 1150px;
+}
+
+@media (max-width: 768px) {
+    nav {
+        margin-left: 400px;
+        max-width: 768px;
+    }
+
+    .user-details {
+        padding-left: 400px;
+    }
+
+    #video {
+        max-width: 768px;
+        margin-left: 200px;
+    }
+
+    .showcase {
+        padding: 25px;
+    }
+
+    footer {
+    padding-top: 20px;
+    margin-left: 40px;
+    line-height: 0.5em;
+    background-color: #dddddd;
+    height: 60px;
+    width: 950px;
+    }
+}

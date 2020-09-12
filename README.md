@@ -5,8 +5,6 @@
 ![screenshot](./images/desktop.png)
 ![screenshot](./images/tablet.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
 - HTML
